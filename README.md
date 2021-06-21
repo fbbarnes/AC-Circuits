@@ -5,6 +5,4 @@ AC-Circuits is a C++ program written to simulate circuits driven by alternat- in
 The code allows users to create a library of components, build these compo- nents into a circuit, and calculate the electrical characteristics of the circuit. 
 Additionally, users may add these custom circuits to the component library, allowing the nesting of circuits. Once circuits have been defined, the circuit diagrams may be displayed visually.
 
-The project code is described in a [report](AC Circuits.pdf)
-
-[I'm an inline-style link] (https://www.google.com)
+The project code is described in a [report](AC-Circuits.pdf).
